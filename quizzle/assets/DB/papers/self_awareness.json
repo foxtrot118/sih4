@@ -1,0 +1,194 @@
+{
+    "id": "ppr001",
+    "title": "Self awareness",
+    "image_url": "",
+    "Description": "Basic physics Multiple Choice Questions (MCQ) to practice basic physics quiz answers",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "Self-management, also known as _________, is the ability to effectively control one’s emotions, behavior and thoughts.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Self – control"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Self – innovative"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Self – Design"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of the above"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "Self management is also useful in:",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Reaching your goals"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Overcoming bad habits"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Creating positive habits"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "_____________ term is also referred to self management.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "F Emotions, behavior and thoughts"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Self control"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Self regulation"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "In self – management skills you can improve yourself in various skills like __________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Discipline"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": " Timeliness"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Goal-setting"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "When you are under __________ for a prolonged period of time, it can cause health problems and mental troubles as well.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Stress"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Discipline"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Timeliness"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Goal – Setting"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q006",
+            "question": "Our emotional, mental, physical, and social responses to perceived demands or threats are referred to as__________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Stress"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Blood pressure"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Constipation"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Heart attack"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q007",
+            "question": " Analyzing your ________ and ________ helps you to attain success in life.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Strengths & Weakness"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Good & bad habits"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Both a) and b)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Heart attack"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q008",
+            "question": "How can you identify your weaknesses?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Point out the areas where you struggle and the things you find difficult to do."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Look at the feedback others usually give you."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Be open to feedback and accept your weaknesses without feeling low about it."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

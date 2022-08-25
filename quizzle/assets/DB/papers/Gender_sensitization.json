@@ -1,0 +1,148 @@
+{
+    "id": "ppr001",
+    "title": "Self awareness",
+    "image_url": "",
+    "Description": "Basic physics Multiple Choice Questions (MCQ) to practice basic physics quiz answers",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "A process of being fair to men and women is",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Gender Integration"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Gender Equity"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Gender Stereotypes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Gender discrimination"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "Ignoring or failing to address the gender dimensions is called",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Gender discrimination"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Gender Blind"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Patriarchy"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Gender Oppression"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q003",
+            "question": " Having the same number of men and women at all levels within the organization to ensure equal representation and participation in all areas is",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Empowerment"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Gender Equity"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Gender Balance"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": " Gender Role"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "Thanks to the women's liberation women can take part in_____activities.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "social"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": " society"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "socially"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "socialize"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Until 1986 most companies would not even allow women to take the exams, but such blatant discrimination is now disappearing.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "bias"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "equity"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "fairness"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "similarity"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q006",
+            "question": "Equality means...",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Everyone has equal opportunities and chances"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "People all get the same pay."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Every one has the right to party"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Disabled peoples rights."
+                }
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

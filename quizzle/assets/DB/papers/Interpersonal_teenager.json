@@ -1,0 +1,170 @@
+{
+    "id": "ppr004",
+    "title": "Interpersonal Skills",
+    "image_url": "",
+    "Description": "Interpersonal skills are the behaviors and tactics a person uses to interact with others effectively.",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr004q001",
+            "question": "In order to learn how to control your emotions you need to learn to seperate your emotions from your _______ ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Thoughts"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Actions"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Desires"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Anger"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "One of the first rule of socializing at work is when you are around new people you do not know, don't be afraid to _______ yourself.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Introduce"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Talk about"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Discuss"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Promote"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "You should always manage relationships for the better good?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I don't Know"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "Always be opened minded in the workplace?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I don't Know"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Which is the act to better contol your emotions",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Stay calm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Lose contol"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Leave work"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Call your mom"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q006",
+            "question": "Sharks are competitive, always right, loud, bossy, and need to win at all costs. Their behavior type could be classified as:",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Aggressive"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Involver"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Social Submissive"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Quite Submissive"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q007",
+            "question": "While in a small group, students are each expected to contribute. One student sits quietly without talking, offering ideas, or engaging with the team. Which behavior type describes this teammate?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Aggressive"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Involver"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Social Submissive"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Quite Submissive"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

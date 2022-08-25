@@ -1,0 +1,218 @@
+{
+    "id": "ppr003",
+    "title": "Empathy",
+    "image_url": "",
+    "Description": "Basic Maths Multiple Choice Questions (MCQ) to practice basic Maths quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr003q001",
+            "question": "What does empathy mean?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The ability to understand and share the feelings of another"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Sharing toys"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Talking to friends"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Asking someone to play"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr003q002",
+            "question": "What could you do at recess if you see someone who is sad because of other people?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Ask them if they want to play"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Explain to the other people that it is important to be kind."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Get a recess teacher if the situation is serious."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of these would be good options."
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr003q003",
+            "question": "Why is it important to be kind?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Kindness doesn't matter."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I don't know."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Kindness helps others feel good about themselves."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "It is human nature"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q004",
+            "question": "Is empathy also 'sympathy?'",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Of course"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q005",
+            "question": " stereotypes are generalizations used to describe a group of people based only on the appearance, words, or actions of a few members of that group",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I Don't Know"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr003q006",
+            "question": " Which behavior helps you build a relationship with your customer.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Owning the issue"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Relating to your customer Experience"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Signature Response"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Layered emotional concerns"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q007",
+            "question": " what is the main difference between empathy and sympathy?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "the first few letters"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "number of hugs"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "empathy- feeling with others/ sympathy- feeling for others"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q008",
+            "question": "This statement show empathy.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "What is 'I understand your frustration but there is nothing that we can do.'?"
+
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "What is 'Don't you plan ahead before signing to a service?'?"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "What is 'It must be hard trying to stick to a budget.'?"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "What is 'I understand your frustration, I try to stick to a budget at home as well.'?"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q009",
+            "question": "A widely held idea or belief about a particular group of people or things",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Stereotype"
+
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "circumstance"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "annihilation"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "atrocity"
+                }
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "id": "ppr002",
+    "title": "Empathy",
+    "image_url": "",
+    "Description": "Basic Chemistry Multiple Choice Questions (MCQ) to practice basic Chemistry quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "I easily feel sad when the people around me feel sad.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "Before criticizing somebody, I try to imagine how I would feel if I were in his/her place.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "It is difficult for me to understand what makes my friends happy.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Yes "
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "It upsets me to see someone being treated disrespectfully.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "When someone else is feeling excited, I tend to get excited too",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q006",
+            "question": "I have tender, concerned feelings for people less fortunate than me.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q007",
+            "question": "I have tender, concerned feelings for people less fortunate than me.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I Don't know"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "No"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

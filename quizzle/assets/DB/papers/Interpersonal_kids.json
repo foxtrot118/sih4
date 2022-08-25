@@ -1,0 +1,170 @@
+{
+    "id": "ppr005",
+    "title": "Interpersonal Skills",
+    "image_url": "",
+    "Description": "Interpersonal skills are the behaviors and tactics a person uses to interact with others effectively.",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr005q001",
+            "question": "What is communication?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ways to let others know thoughts and feelings"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "only speech is considered communication"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "skills we learn in adulthood"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "none of the answers are correct"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q002",
+            "question": "Which is an example of nonverbal communication?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Smiling"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "waving"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "winking"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "all of the answers are correct"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr005q003",
+            "question": "Which of the following are you likely to have an interpersonal relationship with?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A family friend"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A Congressman"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A waitress"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": " All answers are correct."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr005q004",
+            "question": "What does empathy mean?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The ability to understand and share the feelings of another"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Sharing toys"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Talking to friends"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Asking someone to play"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q005",
+            "question": "What could you do at recess if you see someone who is sad because of other people?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Ask them if they want to play."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": " Explain to the other people that it is important to be kind."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Get a recess teacher if the situation is serious."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of these would be good options."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr005q006",
+            "question": "Why is it important to be kind?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Kindness doesn't matter."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "  I don't know."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Kindness helps others feel good about themselves"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "It is human Nature"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q007",
+            "question": "Is practicing empathy a choice?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Maybe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I don't Know"
+                }
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}
